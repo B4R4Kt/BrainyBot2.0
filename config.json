@@ -8,7 +8,10 @@
     ],
     "STARTUP_COGS": [
         "general",
-        "fun"
+        "fun",
+        "help",
+        "mods",
+        "owners"
     ],
 
     "MODERATOR_ROLE": "moderator",
